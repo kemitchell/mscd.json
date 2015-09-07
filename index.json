@@ -6,7 +6,7 @@
   { "phrases": [ "according to" ],
     "comment": "Consider \"in accordance with\" or \"under\".",
     "sections": [ "13.263" ] },
-  { "phrases": [ "actino or proceeding" ],
+  { "phrases": [ "action or proceeding" ],
     "comment": "Replace with \"proceeding\".",
     "sections": [ "13.3" ] },
   { "phrases": [ "affiliate" ],
@@ -51,7 +51,7 @@
     "comment": "Consider \"apply\".",
     "sections": [ "13.16" ] },
   { "phrases": [ "arising out of or relating to" ],
-    "comment": "In a dispute resolution provision, state precisely the types of claims, consider \"relating to\", and cleary describe the relevant subject matter. Also consider excluding extracontractual liability.",
+    "comment": "In a dispute resolution provision, state precisely the types of claims, consider \"relating to\", and clearly describe the relevant subject matter. Also consider excluding extracontractual liability.",
     "citations": [
       "In re TFT-LCD (Flat Panel) Antitrust Litigation, No. M 07-1827 S1, 2011 WL 2650689 (N.D. Cal. July 6, 2011)",
       "Henderson v. Henderson Investment Properties, L.L.C., 147 Idaho 638, 227 P.3d 568 (2010)" ],
@@ -64,7 +64,7 @@
     "comment": "To require compliance, serves no purpose. To refer to a provision or definition, replace with \"as in effect on the date of this agreement\" or \"as in effect at any time\".",
     "sections": [ "13.34", "13.38" ] },
   { "phrases": [ "as liquidated damages and not as a penalty" ],
-    "comment": "When providing for liquidated damages, explain why liquidated damages are appropriate and why damages are difficult to estmate.",
+    "comment": "When providing for liquidated damages, explain why liquidated damages are appropriate and why damages are difficult to estimate.",
     "citations": [
       "Restatement (Second) of Contracts §356 cmt. c (1981)",
       "Ludlow Valve Manuf. Co. v. City of Chicago, 181 Ill. App. 388 (1913)" ],
