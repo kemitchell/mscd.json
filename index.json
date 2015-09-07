@@ -1,8 +1,6 @@
 [ { "phrases": [ "ab initio" ],
     "comment": "Use standard English instead of \"ab initio\".",
-    "sections": [
-      { "from": "13.376",
-        "to": "13.377" } ] },
+    "sections": [ "13.376", "13.377" ] },
   { "phrases": [ "according to" ],
     "comment": "Consider \"in accordance with\" or \"under\" instead of \"according to\".",
     "sections": [ "13.263" ] },
