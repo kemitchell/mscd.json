@@ -200,4 +200,69 @@
     "citations": [ "Crowe v. Trickey, 204 U.S. 228 (1907)" ],
     "sections": [
       { "from": "13.133",
-        "through": "13.139" } ] } ]
+        "through": "13.139" } ] },
+  { "phrases": [ "deemed incorporated by reference" ],
+    "comment": "The phrase \"deemed incorporated by reference\" accomplishes nothing.",
+    "sections": [
+      { "from": "13.291",
+        "through": "13.296" } ] },
+  { "phrases": [ "de facto" ],
+    "comment": "Use standard English instead of \"de facto\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "default" ],
+    "comment": "Considering defining \"Potential Event of Default\".",
+    "sections": [ "13.154" ] },
+  { "phrases": [ "event of default" ],
+    "comment": "Consider defining \"default\".",
+    "sections": [ "13.154" ] },
+  { "phrases": [ "de jure" ],
+    "comment": "Use standard English instead of \"de jure\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "de minimis" ],
+    "comment": "Use standard English instead of \"de minimis\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "de novo" ],
+    "comment": "Use standard English instead of \"de novo\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "desires to" ],
+    "comment": "The phrase \"desires to\" is oddly steamy. Consider \"wants to\" instead.",
+    "sections": [ "2.131" ] },
+  { "phrases": [ "disclaim" ],
+    "comment": "Consider alternatives to \"disclaim\" like \"exclude\" and \"modify\".",
+    "sections": [
+      { "from": "13.162",
+        "through": "13.163" } ] },
+  { "phrases": [ "due or to become due" ],
+    "comment": "The phrase \"due or to become due\" is archaic.",
+    "sections": [ "13.164" ] },
+  { "phrases": [ "duly" ],
+    "comment": "Consider omitting \"duly\", except in \"duly incorporated\" and \"duly organized\".",
+    "sections": [
+      { "from": "13.165",
+        "through": "13.172" } ] },
+  { "phrases": [ "duly and validly" ],
+    "comment": "The word \"validly\" in \"duly and validly\" is redundant.",
+    "sections": [ "13.174" ] },
+  { "phrases": [ "duly authorized representative" ],
+    "comment": "In an introductory clause, address who is an authorized representative in a statement of fact.",
+    "sections": [ "2.79", "5.27" ] },
+  { "phrases": [
+      { "re": "during .+ employment" } ],
+    "comment": "Be more specific than \"during ... employment\".",
+    "citations": [ "Mattel, Inc. v. MGA Entertainment, Inc., 616 F.3d 904 (9th Cir. 2010)" ],
+    "sections": [
+      { "from": "13.175",
+        "through": "13.176" } ] },
+  { "phrases": [ "during the term of this agreement" ],
+    "comment": "Consider omitting \"during the term of this agreement\".",
+    "sections": [
+      { "from": "13.177",
+        "through": "13.178" } ] } ]
