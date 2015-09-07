@@ -392,4 +392,28 @@
     "sections": [ "13.257" ] },
   { "phrases": [ "guaranty" ],
     "comment": "Replace \"guaranty\" with \"guarantee\".",
-    "sections": [ "13.247" ] } ]
+    "sections": [ "13.247" ] },
+  { "phrases": [ "has occurred and is continuing" ],
+    "comment": "Consider revising \"has occurred and is continuing\".",
+    "sections": [
+      { "from": "13.156",
+        "through": "13.160" } ] },
+  { "phrases": [ "hereby" ],
+    "comment": "Avoid \"hereby\", except in language of performance.",
+    "sections": [
+      "3.20",
+      { "from": "13.260",
+        "through": "13.261" } ] },
+  { "phrases": [ "hereby" ],
+    "comment": "Omit \"hereby\" from lead-ins.",
+    "sections": [ "2.145" ] },
+  { "phrases": [ "herein" ],
+    "comment": "Replace \"herein\" with \"in this agreement\".",
+    "sections": [
+      { "from": "13.260",
+        "through": "13.261" } ] },
+  { "phrases": [ "hereof" ],
+    "comment": "Avoid \"hereof\".",
+    "sections": [
+      { "from": "13.260",
+        "through": "13.261" } ] } ]
