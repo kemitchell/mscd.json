@@ -96,7 +96,7 @@
       { "from": "13.73",
         "through": "13.75" } ] },
   { "phrases": [
-      { "re": "best of .+'s knowledge" } ],
+      { "re": "\\bbest of .+'s knowledge\\b" } ],
     "comment": "\"To the best of X's knowledge\" is the same as \"to X's knowledge\".",
     "sections": [ "13.368" ] },
   { "phrases": [ "binding agreement" ],
@@ -255,7 +255,7 @@
     "comment": "In an introductory clause, address who is an authorized representative in a statement of fact.",
     "sections": [ "2.79", "5.27" ] },
   { "phrases": [
-      { "re": "during .+ employment" } ],
+      { "re": "\\bduring .+ employment\\b" } ],
     "comment": "Be more specific than \"during ... employment\".",
     "citations": [ "Mattel, Inc. v. MGA Entertainment, Inc., 616 F.3d 904 (9th Cir. 2010)" ],
     "sections": [
