@@ -1,7 +1,7 @@
 {
   "name": "mscd",
   "description": "text patterns and related commentary from Ken Adam's A Manual of Style for Contract Drafting",
-  "version": "0.0.0",
+  "version": "0.0.0-preview",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "keywords": [
     "contracts",
