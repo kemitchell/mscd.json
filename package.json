@@ -15,6 +15,7 @@
   "repository": "kemitchell/mscd.js",
   "scripts": {
     "format": "lispy-json < index.json > index.json.lispy && mv index.json.lispy index.json",
+    "prepublish": "npm run format",
     "test": "node test.js"
   }
 }
