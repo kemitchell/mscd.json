@@ -1,0 +1,53 @@
+{ "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "properties": {
+      "phrases": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "oneOf": [
+            { "type": "string",
+              "minLength": 1 },
+            { "type": "object",
+              "properties": {
+                "re": {
+                  "type": "string",
+                  "minLength": 1 } },
+              "required": [ "re" ],
+              "additionalProperties": false } ] } },
+      "citations": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "string",
+          "minLength": 1 } },
+      "comment": {
+        "type": "string",
+        "minLength": 1 },
+      "see": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "string",
+          "minLength": 1 } },
+      "sections": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "oneOf": [
+            { "type": "string",
+              "minLength": 1 },
+            { "type": "object",
+              "properties": {
+                "from": {
+                  "type": "string",
+                  "minLength": 1 },
+                "through": {
+                  "type": "string",
+                  "minLength": 1 } },
+              "required": [ "from", "through" ],
+              "additionalProperties": false } ] } } },
+    "required": [ "phrases", "comment", "sections" ],
+    "additionalProperties": false } }

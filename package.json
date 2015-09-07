@@ -3,10 +3,16 @@
   "description": "phrases and related commentary from Ken Adam's A Manual of Style for Contract Drafting",
   "version": "0.0.0-preview",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "devDependencies": {
+    "tv4": "^1.2.5"
+  },
   "keywords": [
     "contracts",
     "law"
   ],
   "license": "CC0-1.0",
-  "repository": "kemitchell/mscd.js"
+  "repository": "kemitchell/mscd.js",
+  "scripts": {
+    "test": "node test.js"
+  }
 }
