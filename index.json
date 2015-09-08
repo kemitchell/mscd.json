@@ -525,4 +525,15 @@
     "comment": "Address remedies and procedures directly, rather than with \"joint\".",
     "sections": [
       { "from": "13.350",
-        "through": "13.363" } ] } ]
+        "through": "13.363" } ] },
+  { "phrases": [ "know all men by these presents" ],
+    "comment": "Omit \"know all men by these presents\".",
+    "sections": [ "2.14" ] },
+  { "phrases": [ "knowledge" ],
+    "comment": "Consider defining \"knowledge\".",
+    "sections": [
+      { "from": "13.370",
+        "through": "13.375" } ] },
+  { "phrases": [ "knowledge and belief" ],
+    "comment": "The phrase \"knowledge and belief\" is a meaningless exercise in redundancy.",
+    "sections": [ "13.369" ] } ]
