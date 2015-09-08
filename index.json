@@ -749,4 +749,16 @@
     "comment": "Use standard English instead of \"ultra vires\".",
     "sections": [
       { "from": "13.376",
-        "through": "13.377" } ] } ]
+        "through": "13.377" } ] },
+  { "phrases": [ "whereas" ],
+    "comment": "Do not use \"whereas\" in recitals.",
+    "sections": [ "2.127" ] },
+  { "phrases": [ "wishes to" ],
+    "comment": "\"Wishes to\" is a bit genteel. Use \"wants to\".",
+    "sections": [ "2.131" ] },
+  { "phrases": [ "witnesseth" ],
+    "comment": "Do not use \"witnesseth\".",
+    "sections": [ "2.123" ] },
+  { "phrases": [ "would like to" ],
+    "comment": "Use \"wants to\" instead of \"would like to\", which is too genteel.",
+    "sections": [ "2.131" ] } ]
