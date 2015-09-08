@@ -695,4 +695,47 @@
     "comment": "Use standard English instead of \"sui generis\".",
     "sections": [
       { "from": "13.376",
-        "through": "13.377" } ] } ]
+        "through": "13.377" } ] },
+  { "phrases": [ "telefacsimile" ],
+    "comment": "Replace \"telefacsimile\" with \"fax\".",
+    "sections": [ "13.196" ] },
+  { "phrases": [ "telecopier" ],
+    "comment": "Replace \"telecopier\" with \"fax\".",
+    "sections": [ "13.197" ] },
+  { "phrases": [ "telecopy" ],
+    "comment": "Replace \"telecopy\" with \"fax\".",
+    "sections": [ "13.196" ] },
+  { "phrases": [ "telex" ],
+    "comment": "Telex is all but dead as a means of communication.",
+    "sections": [ "13.200" ] },
+  { "phrases": [ "that is" ],
+    "comment": "Do not use \"that is\" like \"i.e.\".",
+    "sections": [ "13.342" ] },
+  { "phrases": [ "the other party named in the signature blocks below" ],
+    "comment": "The phrase \"the other party named in the signature blocks below\" comes at expense of readability.",
+    "sections": [ "2.53" ] },
+  { "phrases": [ "thereby" ],
+    "comment": "Avoid \"thereby\".",
+    "sections": [
+      { "from": "13.260",
+        "through": "13.261" } ] },
+  { "phrases": [ "therein" ],
+    "comment": "Avoid \"therein\".",
+    "sections": [
+      { "from": "13.260",
+        "through": "13.261" } ] },
+  { "phrases": [ "thereof" ],
+    "comment": "Avoid \"thereof\".",
+    "sections": [
+      { "from": "13.260",
+        "through": "13.261" } ] },
+  { "phrases": [ "true and correct" ],
+    "comment": "Avoid \"true and correct\" to incorporate recitals by reference.",
+    "sections": [
+      { "from": "2.141",
+        "through": "2.142" } ] },
+  { "phrases": [
+      "twelve-month anniversary", "twelve month anniversary",
+      "12-month anniversary", "12 month anniversary" ],
+    "comment": "Replace \"twelve-month anniversary\" and the like with \"anniversary\".",
+    "sections": [ "13.9" ] } ]
