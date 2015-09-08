@@ -653,4 +653,15 @@
     "comment": "Use standard English instead of \"qui tam\".",
     "sections": [
       { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "reasonably likely" ],
+    "comment": "Do not use \"reasonably likely\".",
+    "sections": [ "13.384" ] },
+  { "phrases": [ "represented by" ],
+    "comment": "Omit \"represented by\" referring to a company represented by a division.",
+    "sections": [ "2.75" ] },
+  { "phrases": [ "res judicata" ],
+    "comment": "Use standard English instead of \"res judicata\".",
+    "sections": [
+      { "from": "13.376",
         "through": "13.377" } ] } ]
