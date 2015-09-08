@@ -517,4 +517,12 @@
     "comment": "Do not use \"it being understood\".",
     "sections": [
       { "from": "13.345",
-        "through": "13.349" } ] } ]
+        "through": "13.349" } ] },
+  { "phrases": [ "joint and several" ],
+    "comment": "\"Joint\" is subsumed by \"several\" in \"joint and several\".",
+    "sections": [ "13.359" ] },
+  { "phrases": [ "joint" ],
+    "comment": "Address remedies and procedures directly, rather than with \"joint\".",
+    "sections": [
+      { "from": "13.350",
+        "through": "13.363" } ] } ]
