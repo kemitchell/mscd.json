@@ -572,4 +572,12 @@
     "comment": "Use standard English instead of \"mutatis mutandis\".",
     "sections": [
       { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "now, therefore" ],
+    "comment": "Omit \"now, therefore\".",
+    "sections": [ "2.150" ] },
+  { "phrases": [ "nunc pro tunc" ],
+    "comment": "Use standard English instead of \"nunc pro tunc\".",
+    "sections": [
+      { "from": "13.376",
         "through": "13.377" } ] } ]
