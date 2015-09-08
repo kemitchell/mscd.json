@@ -648,4 +648,9 @@
         "through": "13.377" } ] },
   { "phrases": [ "purchase agreement" ],
     "comment": "Consider a more informative title than \"Purchase Agreement\", like \"Asset Purchase Agreement\" or \"Securities Purchase Agreement\".",
-    "sections": [ "2,4" ] } ]
+    "sections": [ "2,4" ] },
+  { "phrases": [ "qui tam" ],
+    "comment": "Use standard English instead of \"qui tam\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] } ]
