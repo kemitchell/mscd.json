@@ -536,4 +536,17 @@
         "through": "13.375" } ] },
   { "phrases": [ "knowledge and belief" ],
     "comment": "The phrase \"knowledge and belief\" is a meaningless exercise in redundancy.",
-    "sections": [ "13.369" ] } ]
+    "sections": [ "13.369" ] },
+  { "phrases": [ "likely" ],
+    "comment": "\"Likely\" is a slippery, unclear term. Consider stating a percentage probability.",
+    "sections": [
+      { "from": "13.378",
+        "through": "13.383" } ] },
+  { "phrases": [ "lump sum" ],
+    "comment": "See MSCD.",
+    "sections": [
+      { "from": "13.385",
+        "through": "13.387" } ] },
+  { "phrases": [ "lump-sum payment", "lump sum payment" ],
+    "comment": "Replace \"lump-sum payment\" with \"single payment\".",
+    "sections": [ "13.385" ] } ]
