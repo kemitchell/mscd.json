@@ -615,4 +615,37 @@
         "through": "2.58" } ] },
   { "phrases": [ "organized and validly existing" ],
     "comment": "In an introductory clause, \"organized and validly existing\" should be addressed instead in a statement of fact.",
-    "sections": [ "2.79" ] } ]
+    "sections": [ "2.79" ] },
+  { "phrases": [ "pacta sunt servanda" ],
+    "comment": "Use standard English instead of \"pacta sunt servanda\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "parens patriae" ],
+    "comment": "Use standard English instead of \"parens patriae\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "pari passu" ],
+    "comment": "Use standard English instead of \"pari passu\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "per diem" ],
+    "comment": "Use standard English instead of \"per diem\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "prima facie" ],
+    "comment": "Use standard English instead of \"prima facie\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "pro tanto" ],
+    "comment": "Use standard English instead of \"pro tanto\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "purchase agreement" ],
+    "comment": "Consider a more informative title than \"Purchase Agreement\", like \"Asset Purchase Agreement\" or \"Securities Purchase Agreement\".",
+    "sections": [ "2,4" ] } ]
