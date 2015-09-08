@@ -549,4 +549,27 @@
         "through": "13.387" } ] },
   { "phrases": [ "lump-sum payment", "lump sum payment" ],
     "comment": "Replace \"lump-sum payment\" with \"single payment\".",
-    "sections": [ "13.385" ] } ]
+    "sections": [ "13.385" ] },
+  { "phrases": [ "mala fides" ],
+    "comment": "Use standard English instead of \"mala fides\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] },
+  { "phrases": [ "made a part of this agreement" ],
+    "comment": "The phrase \"made a part of this agreement\" accomplishes nothing.",
+    "sections": [ "13.291", "13.296" ] },
+  { "phrases": [ "mere" ],
+    "comment": "Consider deleting \"mere\" or replacing it with \"just\" or \"only\".",
+    "sections": [
+      { "from": "13.389",
+        "through": "13.390" } ] },
+  { "phrases": [ "merely" ],
+    "comment": "Consider deleting \"merely\" or replacing it with \"just\" or \"only\".",
+    "sections": [
+      { "from": "13.389",
+        "through": "13.390" } ] },
+  { "phrases": [ "mutatis mutandis" ],
+    "comment": "Use standard English instead of \"mutatis mutandis\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] } ]
