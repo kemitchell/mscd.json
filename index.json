@@ -738,4 +738,15 @@
       "twelve-month anniversary", "twelve month anniversary",
       "12-month anniversary", "12 month anniversary" ],
     "comment": "Replace \"twelve-month anniversary\" and the like with \"anniversary\".",
-    "sections": [ "13.9" ] } ]
+    "sections": [ "13.9" ] },
+  { "phrases": [ "until the end of time" ],
+    "comment": "Consider replacing \"until the end of time\" with \"indefinitely\" or \"perpetually\".",
+    "sections": [ "13.301" ] },
+  { "phrases": [ "upon the terms and conditions and subject to the conditions set forth in this agreement" ],
+    "comment": "Omit \"upon the terms and conditions and subject to the conditions set forth in this agreement\".",
+    "sections": [ "2.130" ] },
+  { "phrases": [ "ultra vires" ],
+    "comment": "Use standard English instead of \"ultra vires\".",
+    "sections": [
+      { "from": "13.376",
+        "through": "13.377" } ] } ]
