@@ -12,7 +12,7 @@
     "law"
   ],
   "license": "CC0-1.0",
-  "repository": "kemitchell/mscd.js",
+  "repository": "kemitchell/mscd.json",
   "scripts": {
     "format": "lispy-json < index.json > index.json.lispy && mv index.json.lispy index.json",
     "prepublish": "npm run format",
