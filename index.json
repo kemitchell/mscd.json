@@ -888,6 +888,11 @@
   { "phrases": [ "third party" ],
     "comment": "The phrase \"third party\" should as a general matter be absent from your contracts.",
     "sections": [ "appendix 2, pages 454-455" ] },
+  { "phrases": [ "throughout the universe" ],
+    "comment": "Replace \"throughout the universe\" with \"wordwide\".",
+    "sections": [
+      { "from": "13.685",
+        "through": "13.686" } ] },
   { "phrases": [ "true and correct" ],
     "comment": "The phrase \"true and correct\" should as a general matter be absent from your contracts.",
     "sections": [ "appendix 2, pages 454-455" ] },
