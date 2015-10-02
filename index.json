@@ -417,6 +417,9 @@
     "sections": [
       { "from": "13.260",
         "through": "13.261" } ] },
+  { "phrases": [ "hypothecate" ],
+    "comment": "Replace \"hypothecate\" with \"grant\".",
+    "sections": [ "1.14" ] },
   { "phrases": [ "i.e." ],
     "comment": "Do not use \"i.e.\".",
     "sections": [ "13.342" ] },
