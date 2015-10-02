@@ -1,7 +1,7 @@
 {
   "name": "mscd",
   "description": "phrases and related commentary from Ken Adam's A Manual of Style for Contract Drafting",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "devDependencies": {
     "lispy-json": "^1.1.2",
