@@ -931,4 +931,7 @@
     "sections": [ "appendix 2, pages 454-455", "2.156" ] },
   { "phrases": [ "such" ],
     "comment": "The word \"such\", used as a pointing word, should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] } ]
+    "sections": [ "appendix 2, pages 454-455" ] },
+  { "phrases": [ "advisable and in the best interests of" ],
+    "comment": "Give \"advisable and in the best interests of\" a pass, at least in those contexts where the Delaware General Corporation Law refers to advisability.",
+    "url": "http://www.adamsdrafting.com/is-advisable-and-in-the-best-interests-of/" } ]
