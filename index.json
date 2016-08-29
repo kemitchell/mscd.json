@@ -457,7 +457,7 @@
     "comment": "\"Indefinitely\" doesn't make sense of a release.",
     "sections": [ "13.300" ] },
   { "phrases": [ "indemnify" ],
-    "comment": "See commentary.",
+    "comment": "See commentary on \"indemnify\".",
     "sections": [
       { "from": "13.302",
         "through": "13.337" } ] },
