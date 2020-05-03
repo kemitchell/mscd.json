@@ -1,938 +1,2550 @@
-[ { "phrases": [ "ab initio" ],
+[
+  {
+    "phrases": [
+      "ab initio"
+    ],
     "comment": "Use standard English instead of \"ab initio\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "according to" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "according to"
+    ],
     "comment": "Consider \"in accordance with\" or \"under\" instead of \"according to\".",
-    "sections": [ "13.263" ] },
-  { "phrases": [ "action or proceeding" ],
+    "sections": [
+      "13.263"
+    ]
+  },
+  {
+    "phrases": [
+      "action or proceeding"
+    ],
     "comment": "Replace \"action or proceeding\" with \"proceeding\".",
-    "sections": [ "13.3" ] },
-  { "phrases": [ "affiliate" ],
+    "sections": [
+      "13.3"
+    ]
+  },
+  {
+    "phrases": [
+      "affiliate"
+    ],
     "comment": "Clarify \"affiliate\". At the time the contract was signed? When a provision is applied?",
-    "citations": [ "GTE Wireless, Inc. v. Cellexis Int'l, Inc., 341 F.3d 1 (1st Cir. 2003)" ],
-    "sections": [ "13.4" ] },
-  { "phrases": [ "agreement" ],
+    "citations": [
+      "GTE Wireless, Inc. v. Cellexis Int'l, Inc., 341 F.3d 1 (1st Cir. 2003)"
+    ],
+    "sections": [
+      "13.4"
+    ]
+  },
+  {
+    "phrases": [
+      "agreement"
+    ],
     "comment": "If \"agreement\" is used as an agreement title, use a more descriptive title if possible. Consider \"contract\".",
-    "sections": [ "2.4", "2.9" ] },
-  { "phrases": [ "agreement and plan of merger" ],
+    "sections": [
+      "2.4",
+      "2.9"
+    ]
+  },
+  {
+    "phrases": [
+      "agreement and plan of merger"
+    ],
     "comment": "Replace \"Agreement and Plan of Merger\" with \"Merger Agreement\".",
-    "see": [ "Articles of Merger", "Certificate of Merger" ],
-    "sections": [ "2.7" ] },
-  { "phrases": [ "agreement of purchase and sale" ],
+    "see": [
+      "Articles of Merger",
+      "Certificate of Merger"
+    ],
+    "sections": [
+      "2.7"
+    ]
+  },
+  {
+    "phrases": [
+      "agreement of purchase and sale"
+    ],
     "comment": "Replace \"Agreement of Purchase and Sale\" with \"Purchase Agreement\" or \"Sale Agreement\".",
-    "see": [ "Purchase Agreement", "Sale Agreement" ],
-    "sections": [ "2.3" ] },
-  { "phrases": [ "allocatur" ],
+    "see": [
+      "Purchase Agreement",
+      "Sale Agreement"
+    ],
+    "sections": [
+      "2.3"
+    ]
+  },
+  {
+    "phrases": [
+      "allocatur"
+    ],
     "comment": "Use standard English instead of \"allocatur\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "allonge" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "allonge"
+    ],
     "comment": "Replace \"allonge\" with \"indorsement supplement\", \"indorsement addendum\", or \"indorsement certificate\",",
-    "sections": [ "13.7" ] },
-  { "phrases": [ "among" ],
+    "sections": [
+      "13.7"
+    ]
+  },
+  {
+    "phrases": [
+      "among"
+    ],
     "comment": "In an introductory clause, replace \"among\" with \"between\".",
-    "see": [ "By and Between" ],
-    "sections": [ "2.46" ] },
-  { "phrases": [ "anniversary" ],
+    "see": [
+      "By and Between"
+    ],
+    "sections": [
+      "2.46"
+    ]
+  },
+  {
+    "phrases": [
+      "anniversary"
+    ],
     "comment": "Avoid \"anniversary\" for milestones in months or weeks.",
-    "sections": [ "13.8" ] },
-  { "phrases": [ "annual meeting" ],
+    "sections": [
+      "13.8"
+    ]
+  },
+  {
+    "phrases": [
+      "annual meeting"
+    ],
     "comment": "Be more specific than \"annual meeting\".",
-    "citations": [ "Airgas, Inc. v. Air Products & Chemicals Inc., 8 A.3d 1182 (Del. 2010)." ],
-    "sections": [ "13.11" ] },
-  { "phrases": [ "applicable" ],
+    "citations": [
+      "Airgas, Inc. v. Air Products & Chemicals Inc., 8 A.3d 1182 (Del. 2010)."
+    ],
+    "sections": [
+      "13.11"
+    ]
+  },
+  {
+    "phrases": [
+      "applicable"
+    ],
     "comment": "When \"applicable\" precedes a noun, consider omitting or use of a more precise term.",
     "sections": [
-      { "from": "13.14",
-        "through": "13.15" } ] },
-  { "phrases": [
-      "am applicable", "are applicable", "be applicable",
-      "been applicable", "being applicable", "is applicable",
-      "was applicable", "were applicable" ],
+      {
+        "from": "13.14",
+        "through": "13.15"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "am applicable",
+      "are applicable",
+      "be applicable",
+      "been applicable",
+      "being applicable",
+      "is applicable",
+      "was applicable",
+      "were applicable"
+    ],
     "comment": "Consider \"apply\".",
-    "sections": [ "13.16" ] },
-  { "phrases": [ "arising out of or relating to" ],
+    "sections": [
+      "13.16"
+    ]
+  },
+  {
+    "phrases": [
+      "arising out of or relating to"
+    ],
     "comment": "In a dispute resolution provision, state precisely the types of claims, consider \"relating to\", and clearly describe the relevant subject matter. Also consider excluding extracontractual liability.",
     "citations": [
       "In re TFT-LCD (Flat Panel) Antitrust Litigation, No. M 07-1827 S1, 2011 WL 2650689 (N.D. Cal. July 6, 2011)",
-      "Henderson v. Henderson Investment Properties, L.L.C., 147 Idaho 638, 227 P.3d 568 (2010)" ],
-    "sections": [ "13.23", "13.21", "13.32", "13.27", "13.28", "13.29", "13.30" ] },
-  { "phrases": [ "articles of merger" ],
+      "Henderson v. Henderson Investment Properties, L.L.C., 147 Idaho 638, 227 P.3d 568 (2010)"
+    ],
+    "sections": [
+      "13.23",
+      "13.21",
+      "13.32",
+      "13.27",
+      "13.28",
+      "13.29",
+      "13.30"
+    ]
+  },
+  {
+    "phrases": [
+      "articles of merger"
+    ],
     "comment": "Replace \"Articles of Merger\" with \"Merger Agreement\".",
-    "see": [ "Articles of Merger", "Certificate of Merger" ],
-    "sections": [ "2.7" ] },
-  { "phrases": [ "as amended" ],
+    "see": [
+      "Articles of Merger",
+      "Certificate of Merger"
+    ],
+    "sections": [
+      "2.7"
+    ]
+  },
+  {
+    "phrases": [
+      "as amended"
+    ],
     "comment": "To require compliance, \"as amended\" serves no purpose. To refer to a provision or definition, replace with \"as in effect on the date of this agreement\" or \"as in effect at any time\".",
-    "sections": [ "13.34", "13.38" ] },
-  { "phrases": [ "as liquidated damages and not as a penalty" ],
+    "sections": [
+      "13.34",
+      "13.38"
+    ]
+  },
+  {
+    "phrases": [
+      "as liquidated damages and not as a penalty"
+    ],
     "comment": "When providing for liquidated damages, explain why liquidated damages are appropriate and why damages are difficult to estimate.",
     "citations": [
       "Restatement (Second) of Contracts §356 cmt. c (1981)",
-      "Ludlow Valve Manuf. Co. v. City of Chicago, 181 Ill. App. 388 (1913)" ],
+      "Ludlow Valve Manuf. Co. v. City of Chicago, 181 Ill. App. 388 (1913)"
+    ],
     "sections": [
-      { "from": "13.51",
-        "through": "13.52" } ] },
-  { "phrases": [ "as the case may be" ],
+      {
+        "from": "13.51",
+        "through": "13.52"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "as the case may be"
+    ],
     "comment": "Consider \"as applicable\" and \"whichever applies\" instead of \"as the case may be\".",
-    "sections": [ "13.17", "13.53" ] },
-  { "phrases": [ "attorn" ],
+    "sections": [
+      "13.17",
+      "13.53"
+    ]
+  },
+  {
+    "phrases": [
+      "attorn"
+    ],
     "comment": "When effecting an attornment, replace \"attorn\" with \"consent\" and consider \"attornment\" as a section heading. Under Canadian law, see notes in MSCD.",
     "sections": [
-      { "from": "13.57",
-        "through": "13.59" } ] },
-  { "phrases": [ "automatically" ],
+      {
+        "from": "13.57",
+        "through": "13.59"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "automatically"
+    ],
     "comment": "Consider omitting \"automatically\". When expressing a legal fiction, replace with \"deem\".",
     "sections": [
-      { "from": "13.63",
-        "through": "13.64" },
-      "13.67" ] },
-  { "phrases": [ "because" ],
+      {
+        "from": "13.63",
+        "through": "13.64"
+      },
+      "13.67"
+    ]
+  },
+  {
+    "phrases": [
+      "because"
+    ],
     "comment": "Clarify whether \"because\" refers to a sole cause.",
-    "citations": [ "Gross v. FBL Financial Servs., Inc., 557 U.S. 167 (2009)" ],
+    "citations": [
+      "Gross v. FBL Financial Servs., Inc., 557 U.S. 167 (2009)"
+    ],
     "sections": [
-      { "from": "13.73",
-        "through": "13.75" } ] },
-  { "phrases": [
-      { "re": "\\bbest of .+'s knowledge\\b" } ],
+      {
+        "from": "13.73",
+        "through": "13.75"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      {
+        "re": "\\bbest of .+'s knowledge\\b"
+      }
+    ],
     "comment": "\"To the best of X's knowledge\" is the same as \"to X's knowledge\".",
-    "sections": [ "13.368" ] },
-  { "phrases": [ "binding agreement" ],
+    "sections": [
+      "13.368"
+    ]
+  },
+  {
+    "phrases": [
+      "binding agreement"
+    ],
     "comment": "Omit \"binding agreement\" from introductory clauses.",
     "sections": [
-      { "from": "2.79",
-        "through": "2.82" } ] },
-  { "phrases": [ "bona fide" ],
+      {
+        "from": "2.79",
+        "through": "2.82"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "bona fide"
+    ],
     "comment": "Use standard English instead of \"bona fide\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "books and records" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "books and records"
+    ],
     "comment": "Replace \"records\". Consider \"accounting records\" or \"financial records\". When referencing the Delaware General Corporation Law, consider \"in accordance with\" the statute.",
     "sections": [
       "13.76",
-      { "from": "13.79",
-        "through": "13.80" } ] },
-  { "phrases": [ "buy" ],
+      {
+        "from": "13.79",
+        "through": "13.80"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "buy"
+    ],
     "comment": "Replace \"buy\" with \"purchase\".",
     "sections": [
-      { "from": "13.81",
-        "through": "13.84" } ] },
-  { "phrases": [ "buy-sell agreement" ],
+      {
+        "from": "13.81",
+        "through": "13.84"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "buy-sell agreement"
+    ],
     "comment": "Replace \"Buy-Sell Agreement\" with \"Shareholders' Agreement\" or a variant.",
-    "sections": [ "2.5" ] },
-  { "phrases": [ "by and between" ],
+    "sections": [
+      "2.5"
+    ]
+  },
+  {
+    "phrases": [
+      "by and between"
+    ],
     "comment": "In an introductory clause, replace \"by and between\" with \"between\".",
-    "see": [ "among" ],
-    "sections": [ "2.46" ] },
-  { "phrases": [ "by-laws" ],
+    "see": [
+      "among"
+    ],
+    "sections": [
+      "2.46"
+    ]
+  },
+  {
+    "phrases": [
+      "by-laws"
+    ],
     "comment": "Replace \"by-laws\" with \"bylaws\".",
     "sections": [
-      { "from": "13.85",
-        "through": "13.87" } ] },
-  { "phrases": [ "certain" ],
+      {
+        "from": "13.85",
+        "through": "13.87"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "certain"
+    ],
     "comment": "Consider whether \"certain\" might suggest a narrower subset than you intend.",
-    "sections": [ "13.88" ] },
-  { "phrases": [ "certificate of merger" ],
+    "sections": [
+      "13.88"
+    ]
+  },
+  {
+    "phrases": [
+      "certificate of merger"
+    ],
     "comment": "Replace \"Certificate of Merger\" with \"Merger Agreement\".",
-    "see": [ "Articles of Merger", "Agreement and Plan of Merger" ],
-    "sections": [ "2.7" ] },
-  { "phrases": [ "certify" ],
+    "see": [
+      "Articles of Merger",
+      "Agreement and Plan of Merger"
+    ],
+    "sections": [
+      "2.7"
+    ]
+  },
+  {
+    "phrases": [
+      "certify"
+    ],
     "comment": "Consider requiring mere notice instead of certification.",
     "sections": [
-      { "from": "13.89",
-        "through": "13.91" } ] },
-  { "phrases": [ "change in control" ],
+      {
+        "from": "13.89",
+        "through": "13.91"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "change in control"
+    ],
     "comment": "Ensure that \"change in control\" is consistent with \"change of control\".",
-    "sections": [ "13.92" ] },
-  { "phrases": [ "competitive" ],
+    "sections": [
+      "13.92"
+    ]
+  },
+  {
+    "phrases": [
+      "competitive"
+    ],
     "comment": "Consider \"competing\" or \"to compete\" instead of \"competitive\".",
-    "sections": [ "13.96" ] },
-  { "phrases": [ "complete and accurate" ],
+    "sections": [
+      "13.96"
+    ]
+  },
+  {
+    "phrases": [
+      "complete and accurate"
+    ],
     "comment": "Consider omitting \"complete and accurate\" or replacing it with \"accurate\".",
     "sections": [
-      { "from": "13.99",
-        "through": "13.100" } ] },
-  { "phrases": [ "consequential damages" ],
+      {
+        "from": "13.99",
+        "through": "13.100"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "consequential damages"
+    ],
     "comment": "Consider addressing concerns about remote damages more directly, such as by waiver of \"remote\" or \"speculative\" damages or by describing what damages are permitting.",
     "sections": [
-      { "from": "13.118",
-        "through": "13.123" } ] },
-  { "phrases": [ "consideration" ],
+      {
+        "from": "13.118",
+        "through": "13.123"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "consideration"
+    ],
     "comment": "In a recital of consideration, \"consideration\" accomplishes nothing, and is usually inaccurate. Consider \"in exchange for\".",
     "sections": [
-      { "from": "13.42",
-        "through": "13.44" } ] },
-  { "phrases": [ "continuance" ],
+      {
+        "from": "13.42",
+        "through": "13.44"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "continuance"
+    ],
     "comment": "Do not use \"continuance\" to mean \"duration\".",
-    "sections": [ "13.179" ] },
-  { "phrases": [ "contractual" ],
+    "sections": [
+      "13.179"
+    ]
+  },
+  {
+    "phrases": [
+      "contractual"
+    ],
     "comment": "\"Contractual\" is an awkward mouthful.",
     "sections": [
-      { "from": "13.125",
-        "through": "13.127" } ] },
-  { "phrases": [ "contractual arrangements" ],
+      {
+        "from": "13.125",
+        "through": "13.127"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "contractual arrangements"
+    ],
     "comment": "Replace \"contractual arrangements\" with \"contracts\".",
-    "sections": [ "13.127" ] },
-  { "phrases": [ "contractual instruments" ],
+    "sections": [
+      "13.127"
+    ]
+  },
+  {
+    "phrases": [
+      "contractual instruments"
+    ],
     "comment": "Replace \"contractual instruments\" with \"contracts\".",
-    "sections": [ "13.127" ] },
-  { "phrases": [ "contractual obligations" ],
+    "sections": [
+      "13.127"
+    ]
+  },
+  {
+    "phrases": [
+      "contractual obligations"
+    ],
     "comment": "Replace \"contractual obligations\" with \"contract obligations\".",
-    "sections": [ "13.126" ] },
-  { "phrases": [ "contractual terms" ],
+    "sections": [
+      "13.126"
+    ]
+  },
+  {
+    "phrases": [
+      "contractual terms"
+    ],
     "comment": "Replace \"contractual terms\" with \"contract terms\".",
-    "sections": [ "13.126" ] },
-  { "phrases": [ "contra proferentem" ],
+    "sections": [
+      "13.126"
+    ]
+  },
+  {
+    "phrases": [
+      "contra proferentem"
+    ],
     "comment": "Use standard English instead of \"contra proferentem\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "costs and expenses" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "costs and expenses"
+    ],
     "comment": "Consider replacing \"costs and expenses\" with \"expenses\", \"court costs\", \"other litigation costs\", or \"any other expenses\".",
     "sections": [
-      { "from": "13.128",
-        "through": "13.130" } ] },
-  { "phrases": [ "coupled with an interest" ],
+      {
+        "from": "13.128",
+        "through": "13.130"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "coupled with an interest"
+    ],
     "comment": "Terminology like \"coupled with an interest\" is not controlling. Consider reciting an interest.",
-    "citations": [ "Crowe v. Trickey, 204 U.S. 228 (1907)" ],
+    "citations": [
+      "Crowe v. Trickey, 204 U.S. 228 (1907)"
+    ],
     "sections": [
-      { "from": "13.133",
-        "through": "13.139" } ] },
-  { "phrases": [ "deemed incorporated by reference" ],
+      {
+        "from": "13.133",
+        "through": "13.139"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "deemed incorporated by reference"
+    ],
     "comment": "The phrase \"deemed incorporated by reference\" accomplishes nothing.",
     "sections": [
-      { "from": "13.291",
-        "through": "13.296" } ] },
-  { "phrases": [ "de facto" ],
+      {
+        "from": "13.291",
+        "through": "13.296"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "de facto"
+    ],
     "comment": "Use standard English instead of \"de facto\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "default" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "default"
+    ],
     "comment": "Considering defining \"Potential Event of Default\".",
-    "sections": [ "13.154" ] },
-  { "phrases": [ "event of default" ],
+    "sections": [
+      "13.154"
+    ]
+  },
+  {
+    "phrases": [
+      "event of default"
+    ],
     "comment": "Consider defining \"default\".",
-    "sections": [ "13.154" ] },
-  { "phrases": [ "de jure" ],
+    "sections": [
+      "13.154"
+    ]
+  },
+  {
+    "phrases": [
+      "de jure"
+    ],
     "comment": "Use standard English instead of \"de jure\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "de minimis" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "de minimis"
+    ],
     "comment": "Use standard English instead of \"de minimis\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "de novo" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "de novo"
+    ],
     "comment": "Use standard English instead of \"de novo\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "desires to" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "desires to"
+    ],
     "comment": "The phrase \"desires to\" is oddly steamy. Consider \"wants to\" instead.",
-    "sections": [ "2.131" ] },
-  { "phrases": [ "disclaim" ],
+    "sections": [
+      "2.131"
+    ]
+  },
+  {
+    "phrases": [
+      "disclaim"
+    ],
     "comment": "Consider alternatives to \"disclaim\" like \"exclude\" and \"modify\".",
     "sections": [
-      { "from": "13.162",
-        "through": "13.163" } ] },
-  { "phrases": [ "due or to become due" ],
+      {
+        "from": "13.162",
+        "through": "13.163"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "due or to become due"
+    ],
     "comment": "The phrase \"due or to become due\" is archaic.",
-    "sections": [ "13.164" ] },
-  { "phrases": [ "duly" ],
+    "sections": [
+      "13.164"
+    ]
+  },
+  {
+    "phrases": [
+      "duly"
+    ],
     "comment": "Consider omitting \"duly\", except in \"duly incorporated\" and \"duly organized\".",
     "sections": [
-      { "from": "13.165",
-        "through": "13.172" } ] },
-  { "phrases": [ "duly and validly" ],
+      {
+        "from": "13.165",
+        "through": "13.172"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "duly and validly"
+    ],
     "comment": "The word \"validly\" in \"duly and validly\" is redundant.",
-    "sections": [ "13.174" ] },
-  { "phrases": [ "duly authorized representative" ],
-    "comment": "In an introductory clause, address who is an authorized representative in a statement of fact.",
-    "sections": [ "2.79", "5.27" ] },
-  { "phrases": [
-      { "re": "\\bduring .+ employment\\b" } ],
-    "comment": "Be more specific than \"during ... employment\".",
-    "citations": [ "Mattel, Inc. v. MGA Entertainment, Inc., 616 F.3d 904 (9th Cir. 2010)" ],
     "sections": [
-      { "from": "13.175",
-        "through": "13.176" } ] },
-  { "phrases": [ "during the term of this agreement" ],
+      "13.174"
+    ]
+  },
+  {
+    "phrases": [
+      "duly authorized representative"
+    ],
+    "comment": "In an introductory clause, address who is an authorized representative in a statement of fact.",
+    "sections": [
+      "2.79",
+      "5.27"
+    ]
+  },
+  {
+    "phrases": [
+      {
+        "re": "\\bduring .+ employment\\b"
+      }
+    ],
+    "comment": "Be more specific than \"during ... employment\".",
+    "citations": [
+      "Mattel, Inc. v. MGA Entertainment, Inc., 616 F.3d 904 (9th Cir. 2010)"
+    ],
+    "sections": [
+      {
+        "from": "13.175",
+        "through": "13.176"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "during the term of this agreement"
+    ],
     "comment": "Consider omitting \"during the term of this agreement\".",
     "sections": [
-      { "from": "13.177",
-        "through": "13.178" } ] },
-  { "phrases": [ "effective date" ],
+      {
+        "from": "13.177",
+        "through": "13.178"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "effective date"
+    ],
     "comment": "Replace the defined term \"Effective Date\" with \"the date of this agreement\".",
-    "sections": [ "2.28" ] },
-  { "phrases": [ "effective date" ],
+    "sections": [
+      "2.28"
+    ]
+  },
+  {
+    "phrases": [
+      "effective date"
+    ],
     "comment": "If \"effective date\" is used as the start date of performance, replace it with \"start date\".",
-    "sections": [ "2.42" ] },
-  { "phrases": [ "ejusdem generis" ],
+    "sections": [
+      "2.42"
+    ]
+  },
+  {
+    "phrases": [
+      "ejusdem generis"
+    ],
     "comment": "Use standard English instead of \"ejusdem generis\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "end" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "end"
+    ],
     "comment": "Replace \"end\" with \"terminate\" or \"termination\".",
     "sections": [
-      { "from": "13.180",
-        "through": "13.184" } ] },
-  { "phrases": [ "especially" ],
+      {
+        "from": "13.180",
+        "through": "13.184"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "especially"
+    ],
     "comment": "Omit \"especially\", or replace with \"including\" or \"specifically\".",
     "sections": [
       "13.185",
-      { "from": "13.188",
-        "through": "13.189" } ] },
-  { "phrases": [ "execute" ],
+      {
+        "from": "13.188",
+        "through": "13.189"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "execute"
+    ],
     "comment": "Replace \"execute\" with \"sign\".",
-    "sections": [ "13.191" ] },
-  { "phrases": [ "execute and deliver" ],
+    "sections": [
+      "13.191"
+    ]
+  },
+  {
+    "phrases": [
+      "execute and deliver"
+    ],
     "comment": "Consider omitting \"execute and deliver\".",
     "sections": [
-      { "from": "13.192",
-        "through": "13.195" } ] },
-  { "phrases": [ "execution" ],
+      {
+        "from": "13.192",
+        "through": "13.195"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "execution"
+    ],
     "comment": "Replace \"execution\" with \"signature\".",
-    "sections": [ "13.191" ] },
-  { "phrases": [ "ex gratia" ],
+    "sections": [
+      "13.191"
+    ]
+  },
+  {
+    "phrases": [
+      "ex gratia"
+    ],
     "comment": "Use standard English instead of \"ex gratia\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "ex parte" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "ex parte"
+    ],
     "comment": "Use standard English instead of \"ex parte\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "facsimile" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "facsimile"
+    ],
     "comment": "Replace \"facsimile\" with \"fax\".",
-    "sections": [ "13.196" ] },
-  { "phrases": [ "for any or no reason" ],
+    "sections": [
+      "13.196"
+    ]
+  },
+  {
+    "phrases": [
+      "for any or no reason"
+    ],
     "comment": "Omit \"or no reason\" from \"for any or no reason\". Consider addressing the lack of an obligation to explain directly.",
     "sections": [
-      { "from": "13.203",
-        "through": "13.206" } ] },
-  { "phrases": [ "for any reason or no reason" ],
+      {
+        "from": "13.203",
+        "through": "13.206"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "for any reason or no reason"
+    ],
     "comment": "Omit \"or no reason\" from \"for any reason or no reason\". Consider addressing the lack of an obligation to explain directly.",
     "sections": [
-      { "from": "13.203",
-        "through": "13.206" } ] },
-  { "phrases": [ "forever" ],
+      {
+        "from": "13.203",
+        "through": "13.206"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "forever"
+    ],
     "comment": "Consider replacing \"forever\" with \"indefinitely\" or \"perpetually\".",
-    "sections": [ "13.301" ] },
-  { "phrases": [ "fixed fee" ],
+    "sections": [
+      "13.301"
+    ]
+  },
+  {
+    "phrases": [
+      "fixed fee"
+    ],
     "comment": "Consider omitting \"fixed fee\".",
     "sections": [
-      { "from": "13.201",
-        "through": "13.202" } ] },
-  { "phrases": [ "flat fee" ],
+      {
+        "from": "13.201",
+        "through": "13.202"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "flat fee"
+    ],
     "comment": "Consider omitting \"flat fee\".",
     "sections": [
-      { "from": "13.201",
-        "through": "13.202" } ] },
-  { "phrases": [ "force and effect" ],
+      {
+        "from": "13.201",
+        "through": "13.202"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "force and effect"
+    ],
     "comment": "Omit \"force\" from \"force and effect\".",
-    "sections": [ "13.211" ] },
-  { "phrases": [ "formally" ],
+    "sections": [
+      "13.211"
+    ]
+  },
+  {
+    "phrases": [
+      "formally"
+    ],
     "comment": "Consider omitting \"formally\".",
     "sections": [
-      { "from": "13.213",
-        "through": "13.215" } ] },
-  { "phrases": [ "formal" ],
+      {
+        "from": "13.213",
+        "through": "13.215"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "formal"
+    ],
     "comment": "Consider omitting \"formally\".",
     "sections": [
-      { "from": "13.213",
-        "through": "13.215" } ] },
-  { "phrases": [ "form and substance" ],
+      {
+        "from": "13.213",
+        "through": "13.215"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "form and substance"
+    ],
     "comment": "Omit \"form and substance\". Consider attaching documents as exhibits. ",
     "sections": [
-      { "from": "13.216",
-        "through": "13.219" } ] },
-  { "phrases": [ "for the avoidance of doubt" ],
+      {
+        "from": "13.216",
+        "through": "13.219"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "for the avoidance of doubt"
+    ],
     "comment": "Do not use \"for the avoidance of doubt\".",
-    "sections": [ "13.220" ] },
-  { "phrases": [ "for the avoidance of doubt" ],
+    "sections": [
+      "13.220"
+    ]
+  },
+  {
+    "phrases": [
+      "for the avoidance of doubt"
+    ],
     "comment": "Consider restructuring multi-sentence definitions with \"for the avoidance of doubt\" into a single sentence.",
-    "sections": [ "13.223" ] },
-  { "phrases": [ "fraud" ],
+    "sections": [
+      "13.223"
+    ]
+  },
+  {
+    "phrases": [
+      "fraud"
+    ],
     "comment": "Consider clarifying \"fraud\".",
     "sections": [
-      { "from": "13.229",
-        "through": "13.236" } ] },
-  { "phrases": [ "from the beginning of the world" ],
+      {
+        "from": "13.229",
+        "through": "13.236"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "from the beginning of the world"
+    ],
     "comment": "Omit \"from the beginning of the world\".",
     "sections": [
-      { "from": "13.237",
-        "through": "13.238" } ] },
-  { "phrases": [ "from the beginning of time" ],
+      {
+        "from": "13.237",
+        "through": "13.238"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "from the beginning of time"
+    ],
     "comment": "Omit \"from the beginning of time\".",
     "sections": [
-      { "from": "13.237",
-        "through": "13.238" } ] },
-  { "phrases": [ "full-time", "full time" ],
+      {
+        "from": "13.237",
+        "through": "13.238"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "full-time",
+      "full time"
+    ],
     "comment": "Be more specific than \"full-time\".",
-    "citations": [ "In re C.P.Y., 364 S.W.3d 311 (Tex. App. 2012)" ],
-    "sections": [ "13.243" ] },
-  { "phrases": [ "guarantee" ],
+    "citations": [
+      "In re C.P.Y., 364 S.W.3d 311 (Tex. App. 2012)"
+    ],
+    "sections": [
+      "13.243"
+    ]
+  },
+  {
+    "phrases": [
+      "guarantee"
+    ],
     "comment": "Do not use \"guarantee\" as counterpart of \"guarantor\".",
-    "sections": [ "13.248" ] },
-  { "phrases": [ "guarantee" ],
+    "sections": [
+      "13.248"
+    ]
+  },
+  {
+    "phrases": [
+      "guarantee"
+    ],
     "comment": "Replace \"guarantee\" with a simpler phrase when used as a verb.",
-    "sections": [ "13.253" ] },
-  { "phrases": [ "guarantees that" ],
+    "sections": [
+      "13.253"
+    ]
+  },
+  {
+    "phrases": [
+      "guarantees that"
+    ],
     "comment": "Do not use \"guarantees that\" for emphasis.",
-    "sections": [ "13.256" ] },
-  { "phrases": [ "guarantees that" ],
+    "sections": [
+      "13.256"
+    ]
+  },
+  {
+    "phrases": [
+      "guarantees that"
+    ],
     "comment": "Do not use \"guarantees that\" together with an obligation.",
-    "sections": [ "13.257" ] },
-  { "phrases": [ "guaranty" ],
+    "sections": [
+      "13.257"
+    ]
+  },
+  {
+    "phrases": [
+      "guaranty"
+    ],
     "comment": "Replace \"guaranty\" with \"guarantee\".",
-    "sections": [ "13.247" ] },
-  { "phrases": [ "has occurred and is continuing" ],
+    "sections": [
+      "13.247"
+    ]
+  },
+  {
+    "phrases": [
+      "has occurred and is continuing"
+    ],
     "comment": "Consider revising \"has occurred and is continuing\".",
     "sections": [
-      { "from": "13.156",
-        "through": "13.160" } ] },
-  { "phrases": [ "hereby" ],
+      {
+        "from": "13.156",
+        "through": "13.160"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "hereby"
+    ],
     "comment": "Avoid \"hereby\", except in language of performance.",
     "sections": [
       "3.20",
-      { "from": "13.260",
-        "through": "13.261" } ] },
-  { "phrases": [ "hereby" ],
+      {
+        "from": "13.260",
+        "through": "13.261"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "hereby"
+    ],
     "comment": "Omit \"hereby\" from lead-ins.",
-    "sections": [ "2.145" ] },
-  { "phrases": [ "herein" ],
+    "sections": [
+      "2.145"
+    ]
+  },
+  {
+    "phrases": [
+      "herein"
+    ],
     "comment": "Replace \"herein\" with \"in this agreement\".",
     "sections": [
-      { "from": "13.260",
-        "through": "13.261" } ] },
-  { "phrases": [ "hereof" ],
+      {
+        "from": "13.260",
+        "through": "13.261"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "hereof"
+    ],
     "comment": "Avoid \"hereof\".",
     "sections": [
-      { "from": "13.260",
-        "through": "13.261" } ] },
-  { "phrases": [ "hypothecate" ],
+      {
+        "from": "13.260",
+        "through": "13.261"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "hypothecate"
+    ],
     "comment": "Replace \"hypothecate\" with \"grant\".",
-    "sections": [ "1.14" ] },
-  { "phrases": [ "i.e." ],
+    "sections": [
+      "1.14"
+    ]
+  },
+  {
+    "phrases": [
+      "i.e."
+    ],
     "comment": "Do not use \"i.e.\".",
-    "sections": [ "13.342" ] },
-  { "phrases": [ "in accordance with" ],
+    "sections": [
+      "13.342"
+    ]
+  },
+  {
+    "phrases": [
+      "in accordance with"
+    ],
     "comment": "Consider \"under\" instead of \"in accordance with\".",
-    "sections": [ "13.263" ] },
-  { "phrases": [ "in accordance with this agreement" ],
+    "sections": [
+      "13.263"
+    ]
+  },
+  {
+    "phrases": [
+      "in accordance with this agreement"
+    ],
     "comment": "Omit \"in accordance with this agreement\" from recitals.",
-    "sections": [ "2.138" ] },
-  { "phrases": [ "in a timely fashion" ],
+    "sections": [
+      "2.138"
+    ]
+  },
+  {
+    "phrases": [
+      "in a timely fashion"
+    ],
     "comment": "Replace \"timely\".",
-    "sections": [ "13.71" ] },
-  { "phrases": [ "in a timely manner" ],
+    "sections": [
+      "13.71"
+    ]
+  },
+  {
+    "phrases": [
+      "in a timely manner"
+    ],
     "comment": "Replace \"timely\".",
-    "sections": [ "13.71" ] },
-  { "phrases": [ "including its affiliates and direct and indirect subsidiaries" ],
+    "sections": [
+      "13.71"
+    ]
+  },
+  {
+    "phrases": [
+      "including its affiliates and direct and indirect subsidiaries"
+    ],
     "comment": "Omit \"including its affiliates and direct and indirect subsidiaries\" from introdutory clauses.",
-    "sections": [ "2.52" ] },
-  { "phrases": [ "in consideration of the premises" ],
+    "sections": [
+      "2.52"
+    ]
+  },
+  {
+    "phrases": [
+      "in consideration of the premises"
+    ],
     "comment": "Use \"therefore\" instead of \"in consideration of the premises\".",
-    "sections": [ "2.150" ] },
-  { "phrases": [ "incorporated by reference" ],
+    "sections": [
+      "2.150"
+    ]
+  },
+  {
+    "phrases": [
+      "incorporated by reference"
+    ],
     "comment": "The phrase \"incorporated by reference\" accomplishes nothing.",
-    "sections": [ "13.291", "13.296" ] },
-  { "phrases": [ "incorporated by this reference" ],
+    "sections": [
+      "13.291",
+      "13.296"
+    ]
+  },
+  {
+    "phrases": [
+      "incorporated by this reference"
+    ],
     "comment": "The phrase \"incorporated by this reference\" accomplishes nothing.",
-    "sections": [ "13.291", "13.296" ] },
-  { "phrases": [ "incorporated herein by reference" ],
+    "sections": [
+      "13.291",
+      "13.296"
+    ]
+  },
+  {
+    "phrases": [
+      "incorporated herein by reference"
+    ],
     "comment": "The phrase \"incorporated herein by reference\" accomplishes nothing.",
-    "sections": [ "13.291", "13.296" ] },
-  { "phrases": [ "indefinitely" ],
+    "sections": [
+      "13.291",
+      "13.296"
+    ]
+  },
+  {
+    "phrases": [
+      "indefinitely"
+    ],
     "comment": "Consider \"perpetually\" instead of \"indefinitely\".",
-    "sections": [ "13.298" ] },
-  { "phrases": [ "indefinitely" ],
+    "sections": [
+      "13.298"
+    ]
+  },
+  {
+    "phrases": [
+      "indefinitely"
+    ],
     "comment": "\"Indefinitely\" doesn't make sense of a release.",
-    "sections": [ "13.300" ] },
-  { "phrases": [ "indemnify" ],
+    "sections": [
+      "13.300"
+    ]
+  },
+  {
+    "phrases": [
+      "indemnify"
+    ],
     "comment": "See commentary on \"indemnify\".",
     "sections": [
-      { "from": "13.302",
-        "through": "13.337" } ] },
-  { "phrases": [ "indenture" ],
+      {
+        "from": "13.302",
+        "through": "13.337"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "indenture"
+    ],
     "comment": "Consider \"contract\" instead of \"indenture\".",
     "sections": [
-      { "from": "13.338",
-        "through": "13.340" } ] },
-  { "phrases": [ "in other words" ],
+      {
+        "from": "13.338",
+        "through": "13.340"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "in other words"
+    ],
     "comment": "State the concept in question clearly enough the first time.",
-    "sections": [ "13.341" ] },
-  { "phrases": [ "intends to" ],
+    "sections": [
+      "13.341"
+    ]
+  },
+  {
+    "phrases": [
+      "intends to"
+    ],
     "comment": "Use \"wants to\" instead of \"intends to\".",
-    "sections": [ "2.131" ] },
-  { "phrases": [ "intentional misrepresentation" ],
+    "sections": [
+      "2.131"
+    ]
+  },
+  {
+    "phrases": [
+      "intentional misrepresentation"
+    ],
     "comment": "Consider clarifying \"intentional misrepresentation\".",
     "sections": [
-      { "from": "13.229",
-        "through": "13.236" } ] },
-  { "phrases": [ "inter alia" ],
+      {
+        "from": "13.229",
+        "through": "13.236"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "inter alia"
+    ],
     "comment": "Use standard English instead of \"inter alia\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "in particular" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "in particular"
+    ],
     "comment": "Avoid \"in particular\".",
     "sections": [
-      { "from": "13.343",
-        "through": "13.344" } ] },
-  { "phrases": [ "in personam" ],
+      {
+        "from": "13.343",
+        "through": "13.344"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "in personam"
+    ],
     "comment": "Use standard English instead of \"in personam\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "in rem" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "in rem"
+    ],
     "comment": "Use standard English instead of \"in rem\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "ipso facto" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "ipso facto"
+    ],
     "comment": "Use standard English instead of \"ipso facto\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "is agreeable to" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "is agreeable to"
+    ],
     "comment": "Use \"wants\" instead of \"is agreeable to\".",
-    "sections": [ "2.131" ] },
-  { "phrases": [ "is desirous of" ],
+    "sections": [
+      "2.131"
+    ]
+  },
+  {
+    "phrases": [
+      "is desirous of"
+    ],
     "comment": "Use \"wants\" instead of \"is desirous of\".",
-    "sections": [ "2.131" ] },
-  { "phrases": [ "is entered into" ],
+    "sections": [
+      "2.131"
+    ]
+  },
+  {
+    "phrases": [
+      "is entered into"
+    ],
     "comment": "Replace \"is entered into\" with \"is dated\".",
-    "see": [ "Is Made" ],
-    "sections": [ "2.20" ] },
-  { "phrases": [ "is made" ],
+    "see": [
+      "Is Made"
+    ],
+    "sections": [
+      "2.20"
+    ]
+  },
+  {
+    "phrases": [
+      "is made"
+    ],
     "comment": "Replace \"is made\" with \"is dated\".",
-    "see": [ "Is Entered Into" ],
-    "sections": [ "2.20" ] },
-  { "phrases": [ "it being understood" ],
+    "see": [
+      "Is Entered Into"
+    ],
+    "sections": [
+      "2.20"
+    ]
+  },
+  {
+    "phrases": [
+      "it being understood"
+    ],
     "comment": "Do not use \"it being understood\".",
     "sections": [
-      { "from": "13.345",
-        "through": "13.349" } ] },
-  { "phrases": [ "joint and several" ],
+      {
+        "from": "13.345",
+        "through": "13.349"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "joint and several"
+    ],
     "comment": "\"Joint\" is subsumed by \"several\" in \"joint and several\".",
-    "sections": [ "13.359" ] },
-  { "phrases": [ "joint" ],
+    "sections": [
+      "13.359"
+    ]
+  },
+  {
+    "phrases": [
+      "joint"
+    ],
     "comment": "Address remedies and procedures directly, rather than with \"joint\".",
     "sections": [
-      { "from": "13.350",
-        "through": "13.363" } ] },
-  { "phrases": [ "know all men by these presents" ],
+      {
+        "from": "13.350",
+        "through": "13.363"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "know all men by these presents"
+    ],
     "comment": "Omit \"know all men by these presents\".",
-    "sections": [ "2.14" ] },
-  { "phrases": [ "knowledge" ],
+    "sections": [
+      "2.14"
+    ]
+  },
+  {
+    "phrases": [
+      "knowledge"
+    ],
     "comment": "Consider defining \"knowledge\".",
     "sections": [
-      { "from": "13.370",
-        "through": "13.375" } ] },
-  { "phrases": [ "knowledge and belief" ],
+      {
+        "from": "13.370",
+        "through": "13.375"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "knowledge and belief"
+    ],
     "comment": "The phrase \"knowledge and belief\" is a meaningless exercise in redundancy.",
-    "sections": [ "13.369" ] },
-  { "phrases": [ "likely" ],
+    "sections": [
+      "13.369"
+    ]
+  },
+  {
+    "phrases": [
+      "likely"
+    ],
     "comment": "\"Likely\" is a slippery, unclear term. Consider stating a percentage probability.",
     "sections": [
-      { "from": "13.378",
-        "through": "13.383" } ] },
-  { "phrases": [ "lump sum" ],
+      {
+        "from": "13.378",
+        "through": "13.383"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "lump sum"
+    ],
     "comment": "See MSCD.",
     "sections": [
-      { "from": "13.385",
-        "through": "13.387" } ] },
-  { "phrases": [ "lump-sum payment", "lump sum payment" ],
+      {
+        "from": "13.385",
+        "through": "13.387"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "lump-sum payment",
+      "lump sum payment"
+    ],
     "comment": "Replace \"lump-sum payment\" with \"single payment\".",
-    "sections": [ "13.385" ] },
-  { "phrases": [ "mala fides" ],
+    "sections": [
+      "13.385"
+    ]
+  },
+  {
+    "phrases": [
+      "mala fides"
+    ],
     "comment": "Use standard English instead of \"mala fides\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "made a part of this agreement" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "made a part of this agreement"
+    ],
     "comment": "The phrase \"made a part of this agreement\" accomplishes nothing.",
-    "sections": [ "13.291", "13.296" ] },
-  { "phrases": [ "mere" ],
+    "sections": [
+      "13.291",
+      "13.296"
+    ]
+  },
+  {
+    "phrases": [
+      "mere"
+    ],
     "comment": "Consider deleting \"mere\" or replacing it with \"just\" or \"only\".",
     "sections": [
-      { "from": "13.389",
-        "through": "13.390" } ] },
-  { "phrases": [ "merely" ],
+      {
+        "from": "13.389",
+        "through": "13.390"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "merely"
+    ],
     "comment": "Consider deleting \"merely\" or replacing it with \"just\" or \"only\".",
     "sections": [
-      { "from": "13.389",
-        "through": "13.390" } ] },
-  { "phrases": [ "mutatis mutandis" ],
+      {
+        "from": "13.389",
+        "through": "13.390"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "mutatis mutandis"
+    ],
     "comment": "Use standard English instead of \"mutatis mutandis\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "now, therefore" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "now, therefore"
+    ],
     "comment": "Omit \"now, therefore\".",
-    "sections": [ "2.150" ] },
-  { "phrases": [ "nunc pro tunc" ],
+    "sections": [
+      "2.150"
+    ]
+  },
+  {
+    "phrases": [
+      "nunc pro tunc"
+    ],
     "comment": "Use standard English instead of \"nunc pro tunc\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "on an arm's length basis", "on an arm's-length basis" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "on an arm's length basis",
+      "on an arm's-length basis"
+    ],
     "comment": "Consider replacing \"on an arm's length basis\".",
-    "sections": [ "13.72" ] },
-  { "phrases": [ "on a reasonable length basis" ],
+    "sections": [
+      "13.72"
+    ]
+  },
+  {
+    "phrases": [
+      "on a reasonable length basis"
+    ],
     "comment": "Consider replacing \"on a reasonable basis\".",
-    "sections": [ "13.72" ] },
-  { "phrases": [ "on a daily basis" ],
+    "sections": [
+      "13.72"
+    ]
+  },
+  {
+    "phrases": [
+      "on a daily basis"
+    ],
     "comment": "Replace \"on a daily basis\" with \"daily\" as an adverb, not an adjective.",
-    "sections": [ "13.69" ] },
-  { "phrases": [ "on a pro rata basis" ],
+    "sections": [
+      "13.69"
+    ]
+  },
+  {
+    "phrases": [
+      "on a pro rata basis"
+    ],
     "comment": "Use \"pro rata\" as an adverb, not an adjective.",
-    "sections": [ "13.70" ] },
-  { "phrases": [ "on a quarterly basis" ],
+    "sections": [
+      "13.70"
+    ]
+  },
+  {
+    "phrases": [
+      "on a quarterly basis"
+    ],
     "comment": "Use \"quarterly\" as an adverb, not an adjective.",
-    "sections": [ "13.69" ] },
-  { "phrases": [ "on a regular basis" ],
+    "sections": [
+      "13.69"
+    ]
+  },
+  {
+    "phrases": [
+      "on a regular basis"
+    ],
     "comment": "Replace \"on a regular basis\" with \"regularly\".",
-    "sections": [ "13.69" ] },
-  { "phrases": [ "on a timely basis" ],
+    "sections": [
+      "13.69"
+    ]
+  },
+  {
+    "phrases": [
+      "on a timely basis"
+    ],
     "comment": "Replace \"on a timely basis\" with \"timely\" as an adverb.",
-    "sections": [ "13.71" ] },
-  { "phrases": [ "on a weekly basis" ],
+    "sections": [
+      "13.71"
+    ]
+  },
+  {
+    "phrases": [
+      "on a weekly basis"
+    ],
     "comment": "Replace \"on a weekly basis\" with \"weekly\" as an adverb.",
-    "sections": [ "13.69" ] },
-  { "phrases": [ "on a yearly basis" ],
+    "sections": [
+      "13.69"
+    ]
+  },
+  {
+    "phrases": [
+      "on a yearly basis"
+    ],
     "comment": "Replace \"on a yearly basis\" with \"yearly\" as an adverb.",
-    "sections": [ "13.69" ] },
-  { "phrases": [ "on behalf of" ],
+    "sections": [
+      "13.69"
+    ]
+  },
+  {
+    "phrases": [
+      "on behalf of"
+    ],
     "comment": "When \"on behalf of\" the other members of a corporate group, consider alternatives.",
     "sections": [
-      { "from": "2.55",
-        "through": "2.58" } ] },
-  { "phrases": [ "organized and validly existing" ],
+      {
+        "from": "2.55",
+        "through": "2.58"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "organized and validly existing"
+    ],
     "comment": "In an introductory clause, \"organized and validly existing\" should be addressed instead in a statement of fact.",
-    "sections": [ "2.79" ] },
-  { "phrases": [ "pacta sunt servanda" ],
+    "sections": [
+      "2.79"
+    ]
+  },
+  {
+    "phrases": [
+      "pacta sunt servanda"
+    ],
     "comment": "Use standard English instead of \"pacta sunt servanda\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "parens patriae" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "parens patriae"
+    ],
     "comment": "Use standard English instead of \"parens patriae\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "pari passu" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "pari passu"
+    ],
     "comment": "Use standard English instead of \"pari passu\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "per diem" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "per diem"
+    ],
     "comment": "Use standard English instead of \"per diem\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "prima facie" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "prima facie"
+    ],
     "comment": "Use standard English instead of \"prima facie\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "pro tanto" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "pro tanto"
+    ],
     "comment": "Use standard English instead of \"pro tanto\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "purchase agreement" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "purchase agreement"
+    ],
     "comment": "Consider a more informative title than \"Purchase Agreement\", like \"Asset Purchase Agreement\" or \"Securities Purchase Agreement\".",
-    "sections": [ "2,4" ] },
-  { "phrases": [ "qui tam" ],
+    "sections": [
+      "2,4"
+    ]
+  },
+  {
+    "phrases": [
+      "qui tam"
+    ],
     "comment": "Use standard English instead of \"qui tam\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "reasonably likely" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "reasonably likely"
+    ],
     "comment": "Do not use \"reasonably likely\".",
-    "sections": [ "13.384" ] },
-  { "phrases": [ "represented by" ],
+    "sections": [
+      "13.384"
+    ]
+  },
+  {
+    "phrases": [
+      "represented by"
+    ],
     "comment": "Omit \"represented by\" referring to a company represented by a division.",
-    "sections": [ "2.75" ] },
-  { "phrases": [ "res judicata" ],
+    "sections": [
+      "2.75"
+    ]
+  },
+  {
+    "phrases": [
+      "res judicata"
+    ],
     "comment": "Use standard English instead of \"res judicata\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "sale agreement" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "sale agreement"
+    ],
     "comment": "Consider a more informative title than \"sale agreement\", like \"Asset Sale Agreement\" or \"Securities Sale Agreement\".",
-    "sections": [ "2.4" ] },
-  { "phrases": [ "several" ],
+    "sections": [
+      "2.4"
+    ]
+  },
+  {
+    "phrases": [
+      "several"
+    ],
     "comment": "Address remedies and procedures directly, rather than relying on \"several\".",
     "sections": [
-      { "from": "13.350",
-        "through": "13.363" } ] },
-  { "phrases": [ "seeks to" ],
+      {
+        "from": "13.350",
+        "through": "13.363"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "seeks to"
+    ],
     "comment": "Use \"wants to\" instead of \"seeks to\".",
-    "sections": [ "2.131" ] },
-  { "phrases": [ "shall be determined" ],
-    "comment": "Omit \"shall\" from \"shall be determined\", unless creating a legal fiction.",
-    "citations": [ "Management Strategies, Inc. v. Housing Authority of City of New Haven, 2009 WL 1958170 (Conn. Super. Ct. June 2, 2009)" ],
     "sections": [
-      { "from": "13.142",
-        "through": "13.143" } ] },
-  { "phrases": [ "share exchange agreement and plan of exchange" ],
+      "2.131"
+    ]
+  },
+  {
+    "phrases": [
+      "shall be determined"
+    ],
+    "comment": "Omit \"shall\" from \"shall be determined\", unless creating a legal fiction.",
+    "citations": [
+      "Management Strategies, Inc. v. Housing Authority of City of New Haven, 2009 WL 1958170 (Conn. Super. Ct. June 2, 2009)"
+    ],
+    "sections": [
+      {
+        "from": "13.142",
+        "through": "13.143"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "share exchange agreement and plan of exchange"
+    ],
     "comment": "Replace \"Share Exchange Agreement and Plan of Exchange\" with \"Share Exchange Agreement\".",
-    "sections": [ "2.8" ] },
-  { "phrases": [ "solely" ],
+    "sections": [
+      "2.8"
+    ]
+  },
+  {
+    "phrases": [
+      "solely"
+    ],
     "comment": "Omit \"solely\" from statement of a party's capacity.",
-    "sections": [ "2.73" ] },
-  { "phrases": [ "subsidiary" ],
+    "sections": [
+      "2.73"
+    ]
+  },
+  {
+    "phrases": [
+      "subsidiary"
+    ],
     "comment": "Clarify whether \"subsidiary\" refers to subsidiaries at the time the contract was signed or when the provision is applied.",
-    "sections": [ "13.4" ] },
-  { "phrases": [ "sui generis" ],
+    "sections": [
+      "13.4"
+    ]
+  },
+  {
+    "phrases": [
+      "sui generis"
+    ],
     "comment": "Use standard English instead of \"sui generis\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "telefacsimile" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "telefacsimile"
+    ],
     "comment": "Replace \"telefacsimile\" with \"fax\".",
-    "sections": [ "13.196" ] },
-  { "phrases": [ "telecopier" ],
+    "sections": [
+      "13.196"
+    ]
+  },
+  {
+    "phrases": [
+      "telecopier"
+    ],
     "comment": "Replace \"telecopier\" with \"fax\".",
-    "sections": [ "13.197" ] },
-  { "phrases": [ "telecopy" ],
+    "sections": [
+      "13.197"
+    ]
+  },
+  {
+    "phrases": [
+      "telecopy"
+    ],
     "comment": "Replace \"telecopy\" with \"fax\".",
-    "sections": [ "13.196" ] },
-  { "phrases": [ "telex" ],
+    "sections": [
+      "13.196"
+    ]
+  },
+  {
+    "phrases": [
+      "telex"
+    ],
     "comment": "Telex is all but dead as a means of communication.",
-    "sections": [ "13.200" ] },
-  { "phrases": [ "that is" ],
+    "sections": [
+      "13.200"
+    ]
+  },
+  {
+    "phrases": [
+      "that is"
+    ],
     "comment": "Do not use \"that is\" like \"i.e.\".",
-    "sections": [ "13.342" ] },
-  { "phrases": [ "the other party named in the signature blocks below" ],
+    "sections": [
+      "13.342"
+    ]
+  },
+  {
+    "phrases": [
+      "the other party named in the signature blocks below"
+    ],
     "comment": "The phrase \"the other party named in the signature blocks below\" comes at expense of readability.",
-    "sections": [ "2.53" ] },
-  { "phrases": [ "thereby" ],
+    "sections": [
+      "2.53"
+    ]
+  },
+  {
+    "phrases": [
+      "thereby"
+    ],
     "comment": "Avoid \"thereby\".",
     "sections": [
-      { "from": "13.260",
-        "through": "13.261" } ] },
-  { "phrases": [ "therein" ],
+      {
+        "from": "13.260",
+        "through": "13.261"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "therein"
+    ],
     "comment": "Avoid \"therein\".",
     "sections": [
-      { "from": "13.260",
-        "through": "13.261" } ] },
-  { "phrases": [ "thereof" ],
+      {
+        "from": "13.260",
+        "through": "13.261"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "thereof"
+    ],
     "comment": "Avoid \"thereof\".",
     "sections": [
-      { "from": "13.260",
-        "through": "13.261" } ] },
-  { "phrases": [ "true and correct" ],
+      {
+        "from": "13.260",
+        "through": "13.261"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "true and correct"
+    ],
     "comment": "Avoid \"true and correct\" to incorporate recitals by reference.",
     "sections": [
-      { "from": "2.141",
-        "through": "2.142" } ] },
-  { "phrases": [
-      "twelve-month anniversary", "twelve month anniversary",
-      "12-month anniversary", "12 month anniversary" ],
+      {
+        "from": "2.141",
+        "through": "2.142"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "twelve-month anniversary",
+      "twelve month anniversary",
+      "12-month anniversary",
+      "12 month anniversary"
+    ],
     "comment": "Replace \"twelve-month anniversary\" and the like with \"anniversary\".",
-    "sections": [ "13.9" ] },
-  { "phrases": [ "until the end of time" ],
+    "sections": [
+      "13.9"
+    ]
+  },
+  {
+    "phrases": [
+      "until the end of time"
+    ],
     "comment": "Consider replacing \"until the end of time\" with \"indefinitely\" or \"perpetually\".",
-    "sections": [ "13.301" ] },
-  { "phrases": [ "upon the terms and conditions and subject to the conditions set forth in this agreement" ],
+    "sections": [
+      "13.301"
+    ]
+  },
+  {
+    "phrases": [
+      "upon the terms and conditions and subject to the conditions set forth in this agreement"
+    ],
     "comment": "Omit \"upon the terms and conditions and subject to the conditions set forth in this agreement\".",
-    "sections": [ "2.130" ] },
-  { "phrases": [ "ultra vires" ],
+    "sections": [
+      "2.130"
+    ]
+  },
+  {
+    "phrases": [
+      "ultra vires"
+    ],
     "comment": "Use standard English instead of \"ultra vires\".",
     "sections": [
-      { "from": "13.376",
-        "through": "13.377" } ] },
-  { "phrases": [ "whereas" ],
+      {
+        "from": "13.376",
+        "through": "13.377"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "whereas"
+    ],
     "comment": "Do not use \"whereas\" in recitals.",
-    "sections": [ "2.127" ] },
-  { "phrases": [ "wishes to" ],
+    "sections": [
+      "2.127"
+    ]
+  },
+  {
+    "phrases": [
+      "wishes to"
+    ],
     "comment": "\"Wishes to\" is a bit genteel. Use \"wants to\".",
-    "sections": [ "2.131" ] },
-  { "phrases": [ "witnesseth" ],
+    "sections": [
+      "2.131"
+    ]
+  },
+  {
+    "phrases": [
+      "witnesseth"
+    ],
     "comment": "Do not use \"witnesseth\".",
-    "sections": [ "2.123" ] },
-  { "phrases": [ "would like to" ],
+    "sections": [
+      "2.123"
+    ]
+  },
+  {
+    "phrases": [
+      "would like to"
+    ],
     "comment": "Use \"wants to\" instead of \"would like to\", which is too genteel.",
-    "sections": [ "2.131" ] },
-  { "phrases": [ "at no time" ],
+    "sections": [
+      "2.131"
+    ]
+  },
+  {
+    "phrases": [
+      "at no time"
+    ],
     "comment": "The phrase \"at no time\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "best efforts" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "best efforts"
+    ],
     "comment": "The phrase \"best efforts\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "covenant" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "covenant"
+    ],
     "comment": "The phrase \"covenant\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "formal" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "formal"
+    ],
     "comment": "The phrase \"formal\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "formally" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "formally"
+    ],
     "comment": "The phrase \"formally\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "for the avoidance of doubt" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "for the avoidance of doubt"
+    ],
     "comment": "The phrase \"for the avoidance of doubt\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "form and substance" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "form and substance"
+    ],
     "comment": "The phrase \"form and substance\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "hereinafter referred to as" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "hereinafter referred to as"
+    ],
     "comment": "The phrase \"hereinafter referred to as\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [
-      "including but not limited to", "including, but not limited to",
-      "including (but not limited to)" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "including but not limited to",
+      "including, but not limited to",
+      "including (but not limited to)"
+    ],
     "comment": "The phrase \"including but not limited to\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [
-      "including without limitation", "including, without limitation",
-      "including (without limitation)" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "including without limitation",
+      "including, without limitation",
+      "including (without limitation)"
+    ],
     "comment": "The phrase \"including without limitation\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "in consideration of the foregoing" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "in consideration of the foregoing"
+    ],
     "comment": "The phrase \"in consideration of the foregoing\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "incorporated by reference" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "incorporated by reference"
+    ],
     "comment": "The phrase \"incorporated by reference\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "indemnify and hold harmless" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "indemnify and hold harmless"
+    ],
     "comment": "The phrase \"indemnify and hold harmless\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "in lieu of" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "in lieu of"
+    ],
     "comment": "The phrase \"in lieu of\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "in the event of" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "in the event of"
+    ],
     "comment": "The phrase \"in the event of\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "in witness whereof" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "in witness whereof"
+    ],
     "comment": "The phrase \"in witness whereof\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "it being understood" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "it being understood"
+    ],
     "comment": "The phrase \"it being understood\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "may at its sole discretion" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "may at its sole discretion"
+    ],
     "comment": "The phrase \"may at its sole discretion\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "moral turpitude" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "moral turpitude"
+    ],
     "comment": "The phrase \"moral turpitude\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "notwithstanding" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "notwithstanding"
+    ],
     "comment": "The phrase \"notwithstanding\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "now therefore" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "now therefore"
+    ],
     "comment": "The phrase \"now therefore\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "of any kind" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "of any kind"
+    ],
     "comment": "The phrase \"of any kind\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "prior to" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "prior to"
+    ],
     "comment": "The phrase \"prior to\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "provided, however, that" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "provided, however, that"
+    ],
     "comment": "The phrase \"provided, however, that\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "provided that" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "provided that"
+    ],
     "comment": "The phrase \"provided that\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "pursuant to" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "pursuant to"
+    ],
     "comment": "The phrase \"pursuant to\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "remit" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "remit"
+    ],
     "comment": "The phrase \"remit\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "remittance" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "remittance"
+    ],
     "comment": "The phrase \"remittance\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "represents and warrants" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "represents and warrants"
+    ],
     "comment": "The phrase \"represents and warrants\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "reserves the right to" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "reserves the right to"
+    ],
     "comment": "The phrase \"reserves the right to\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "said" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "said"
+    ],
     "comment": "The word \"said\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "same" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "same"
+    ],
     "comment": "The phrase \"same\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "set forth in" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "set forth in"
+    ],
     "comment": "The phrase \"set forth in\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "shall be" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "shall be"
+    ],
     "comment": "The phrase \"shall be\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "shall have the right to" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "shall have the right to"
+    ],
     "comment": "The phrase \"shall have the right to\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "sole and exclusive" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "sole and exclusive"
+    ],
     "comment": "The phrase \"sole and exclusive\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "such as" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "such as"
+    ],
     "comment": "The phrase \"such as\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "subsection" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "subsection"
+    ],
     "comment": "The phrase \"subsection\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "termination or expiration" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "termination or expiration"
+    ],
     "comment": "The phrase \"termination or expiration\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "terms and conditions" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "terms and conditions"
+    ],
     "comment": "The phrase \"terms and conditions\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "that certain" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "that certain"
+    ],
     "comment": "The phrase \"that certain\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "third party" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "third party"
+    ],
     "comment": "The phrase \"third party\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "throughout the universe" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "throughout the universe"
+    ],
     "comment": "Replace \"throughout the universe\" with \"wordwide\".",
     "sections": [
-      { "from": "13.685",
-        "through": "13.686" } ] },
-  { "phrases": [ "true and correct" ],
+      {
+        "from": "13.685",
+        "through": "13.686"
+      }
+    ]
+  },
+  {
+    "phrases": [
+      "true and correct"
+    ],
     "comment": "The phrase \"true and correct\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "under no circumstances" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "under no circumstances"
+    ],
     "comment": "The phrase \"under no circumstances\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "unless the contract requires otherwise" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "unless the contract requires otherwise"
+    ],
     "comment": "The phrase \"unless the contract requires otherwise\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "until such time as" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "until such time as"
+    ],
     "comment": "The phrase \"until such time as\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "whatsoever" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "whatsoever"
+    ],
     "comment": "The phrase \"whatsoever\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "whereas" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "whereas"
+    ],
     "comment": "The phrase \"whereas\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "willful" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "willful"
+    ],
     "comment": "The phrase \"willful\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "without limiting the generality of the foregoing" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "without limiting the generality of the foregoing"
+    ],
     "comment": "The phrase \"without limiting the generality of the foregoing\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "foregoing" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "foregoing"
+    ],
     "comment": "The phrase \"foregoing\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "witnesseth" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "witnesseth"
+    ],
     "comment": "The phrase \"witnesseth\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] },
-  { "phrases": [ "intending to be legally bound" ],
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  },
+  {
+    "phrases": [
+      "intending to be legally bound"
+    ],
     "comment": "The phrase \"intending to be legally bound\" should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455", "2.156" ] },
-  { "phrases": [ "such" ],
+    "sections": [
+      "appendix 2, pages 454-455",
+      "2.156"
+    ]
+  },
+  {
+    "phrases": [
+      "such"
+    ],
     "comment": "The word \"such\", used as a pointing word, should as a general matter be absent from your contracts.",
-    "sections": [ "appendix 2, pages 454-455" ] } ]
+    "sections": [
+      "appendix 2, pages 454-455"
+    ]
+  }
+]

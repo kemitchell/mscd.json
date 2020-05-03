@@ -4,7 +4,6 @@
   "version": "0.1.7",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "devDependencies": {
-    "lispy-json": "^1.1.2",
     "tv4": "^1.2.5"
   },
   "keywords": [
@@ -14,8 +13,6 @@
   "license": "CC0-1.0",
   "repository": "kemitchell/mscd.json",
   "scripts": {
-    "format": "lispy-json < index.json > index.json.lispy && mv index.json.lispy index.json",
-    "prepublish": "npm run format",
     "test": "node test.js"
   }
 }
